@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CRUD de Usuarios</title>
+  <style>
+    table { width: 100%; border-collapse: collapse; margin-bottom: 20px; }
+    table, th, td { border: 1px solid #ddd; }
+    th, td { padding: 10px; text-align: left; }
+    th { background-color: #f4f4f4; }
+    .form-group { margin-bottom: 10px; }
+    button { margin-right: 5px; }
+    #formContainer { display: none; }
+  </style>
+</head>
+<body>
+  <h1>CRUD de Usuarios</h1>
+  
+
+ 
+  
+  <div id="formContainer">
+    <h2 id="formTitle">Agregar Usuario</h2>
+    <div class="form-group">
+      <label for="name">Nombre:</label>
+      <input type="text" id="name">
+    </div>
+    <div class="form-group">
+      <label for="username">Nombre de Usuario:</label>
+      <input type="text" id="username">
+    </div>
+    <div class="form-group">
+      <label for="email">Email:</label>
+      <input type="text" id="email">
+    </div>
+    <button id="saveUser">Guardar</button>
+    <button id="cancel">Cancelar</button>
+  </div>
+  
+  <table id="userTable">
+    <thead>
+      <tr>
+        <th>Nombre</th>
+        <th>Nombre de Usuario</th>
+        <th>Email</th>
+        <th>Dirección</th>
+        <th>Teléfono</th>
+        <th>Sitio Web</th>
+        <th>Compañía</th>
+    
+      </tr>
+    </thead>
+    <tbody>
+    
+    </tbody>
+  </table>
+  
+  <script src="app.js"></script>
+</body>
+</html>
