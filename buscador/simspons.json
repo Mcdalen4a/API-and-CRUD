@@ -1,0 +1,353 @@
+[
+    {
+      "id": 1,
+      "name": "Homer Simpson",
+      "occupation": "Nuclear Safety Inspector",
+      "age": 39,
+      "image": "https://i.postimg.cc/76cYkDh3/Homer-Simpson.webp"
+    },
+    {
+      "id": 2,
+      "name": "Marge Simpson",
+      "occupation": "Homemaker",
+      "age": 36,
+      "image": "https://i.postimg.cc/KzCTcQGG/Marge-Simpson.webp"
+    },
+    {
+      "id": 3,
+      "name": "Bart Simpson",
+      "occupation": "Student",
+      "age": 10,
+      "image": "https://i.postimg.cc/FztfXRp1/Bart-Simpson.webp"
+    },
+    {
+      "id": 4,
+      "name": "Lisa Simpson",
+      "occupation": "Student",
+      "age": 8,
+      "image": "https://i.postimg.cc/WzMdNvY8/Lisa-Simpson.webp"
+    },
+    {
+      "id": 5,
+      "name": "Maggie Simpson",
+      "occupation": "Baby",
+      "age": 1,
+      "image": "https://i.postimg.cc/sfSQ9YfW/Maggie-Simpson.webp"
+    },
+    {
+      "id": 6,
+      "name": "Abraham Simpson",
+      "occupation": "Retired",
+      "age": 83,
+      "image": "https://i.postimg.cc/YqH4Xvjs/Abraham-Simpson.webp"
+    },
+    {
+      "id": 7,
+      "name": "Patty Bouvier",
+      "occupation": "DMV Employee",
+      "age": 40,
+      "image": "https://i.postimg.cc/YqzvTtWq/Patty-Bouvier.webp"
+    },
+    {
+      "id": 8,
+      "name": "Selma Bouvier",
+      "occupation": "DMV Employee",
+      "age": 40,
+      "image": "https://i.postimg.cc/sfB8n2b7/Selma-Bouvier.webp"
+    },
+    {
+      "id": 9,
+      "name": "Milhouse Van Houten",
+      "occupation": "Student",
+      "age": 10,
+      "image": "https://i.postimg.cc/50zBCDkY/Milhouse-Van-Houten.webp"
+    },
+    {
+      "id": 10,
+      "name": "Ned Flanders",
+      "occupation": "Business Owner",
+      "age": 60,
+      "image": "https://i.postimg.cc/4yTzbwr8/Ned-Flanders.webp"
+    },
+    {
+      "id": 11,
+      "name": "Maude Flanders",
+      "occupation": "Homemaker",
+      "age": 35,
+      "image": "https://i.postimg.cc/pdFhGzQ3/Maude-Flanders.webp"
+    },
+    {
+      "id": 12,
+      "name": "Rod Flanders",
+      "occupation": "Student",
+      "age": 8,
+      "image": "https://i.postimg.cc/NFJjfj71/Rod-Flanders.webp"
+    },
+    {
+      "id": 13,
+      "name": "Todd Flanders",
+      "occupation": "Student",
+      "age": 10,
+      "image": "https://i.postimg.cc/PrJqV1TK/Todd-Flanders.webp"
+    },
+    {
+      "id": 14,
+      "name": "Montgomery Burns",
+      "occupation": "Owner of the Springfield Nuclear Power Plant",
+      "age": 104,
+      "image": "https://i.postimg.cc/GhfmW9pR/Charles-Montgomery-Burns.webp"
+    },
+    {
+      "id": 15,
+      "name": "Waylon Smithers",
+      "occupation": "Executive Assistant",
+      "age": 40,
+      "image": "https://i.postimg.cc/7ZTZwDC2/Waylon-Smithers.webp"
+    },
+    {
+      "id": 16,
+      "name": "Moe Szyslak",
+      "occupation": "Bartender",
+      "age": 45,
+      "image": "https://i.postimg.cc/JhV4hgJd/Moe-Szyslak.webp"
+    },
+    {
+      "id": 17,
+      "name": "Barney Gumble",
+      "occupation": "Unemployed",
+      "age": 40,
+      "image": "https://i.postimg.cc/mrYZ1wyZ/Barney-Gumble.webp"
+    },
+    {
+      "id": 18,
+      "name": "Lenny Leonard",
+      "occupation": "Power Plant Worker",
+      "age": 40,
+      "image": "https://i.postimg.cc/RFGMXZYj/Lenny-Leonard.webp"
+    },
+    {
+      "id": 19,
+      "name": "Carl Carlson",
+      "occupation": "Power Plant Worker",
+      "age": 40,
+      "image": "https://i.postimg.cc/sxX38Rd1/Carl-Carlson.webp"
+    },
+    {
+      "id": 20,
+      "name": "Seymour Skinner",
+      "occupation": "School Principal",
+      "age": 50,
+      "image": "https://i.postimg.cc/sxN3C0sm/Seymour-Skinner.webp"
+    },
+    {
+      "id": 21,
+      "name": "Edna Krabappel",
+      "occupation": "Teacher",
+      "age": 40,
+      "image": "https://i.postimg.cc/J76rXtZX/Edna-Krabappel.webp"
+    },
+    {
+      "id": 22,
+      "name": "Otto Mann",
+      "occupation": "Bus Driver",
+      "age": 30,
+      "image": "https://i.postimg.cc/X7tn2h27/Otto-Mann.webp"
+    },
+    {
+      "id": 23,
+      "name": "Apu Nahasapeemapetilon",
+      "occupation": "Convenience Store Owner",
+      "age": 40,
+      "image": "https://i.postimg.cc/nh7pNk5K/Apu-Nahasapeemapetilon.webp"
+    },
+    {
+      "id": 24,
+      "name": "Clancy Wiggum",
+      "occupation": "Police Chief",
+      "age": 42,
+      "image": "https://i.postimg.cc/Xvb4W5SR/Clancy-Wiggum.webp"
+    },
+    {
+      "id": 25,
+      "name": "Ralph Wiggum",
+      "occupation": "Student",
+      "age": 8,
+      "image": "https://i.postimg.cc/3wF7xw3d/Ralph-Wiggum.webp"
+    },
+    {
+      "id": 26,
+      "name": "Krusty el Payaso",
+      "occupation": "TV Clown",
+      "age": 50,
+      "image": "https://i.postimg.cc/QtND9rMS/Herschel-Krustofski.webp"
+    },
+    {
+      "id": 27,
+      "name": "Sideshow Bob",
+      "occupation": "Criminal",
+      "age": 45,
+      "image": "https://i.postimg.cc/GhCWHCSD/Robert-Terwilliger.webp"
+    },
+    {
+      "id": 28,
+      "name": "Sideshow Mel",
+      "occupation": "TV Sidekick",
+      "age": 40,
+      "image": "https://i.postimg.cc/6pGnSktH/Melvin-Van-Horne.webp"
+    },
+    {
+      "id": 29,
+      "name": "Dr. Hibbert",
+      "occupation": "Doctor",
+      "age": 50,
+      "image": "https://i.postimg.cc/qM6TCwkf/Julius-Hibbert.webp"
+    },
+    {
+      "id": 30,
+      "name": "Duffman",
+      "occupation": "Fiestero",
+      "age": 50,
+      "image": "https://i.postimg.cc/rwS2fp0Q/Duffman.webp"
+    },
+    {
+      "id": 31,
+      "name": "Dr. Nick Riviera",
+      "occupation": "Doctor",
+      "age": 45,
+      "image": "https://i.postimg.cc/q74VSd20/Nick-Riviera.webp"
+    },
+    {
+      "id": 32,
+      "name": "Snake Jailbird",
+      "occupation": "Criminal",
+      "age": 35,
+      "image": "https://i.postimg.cc/TwNzKLFY/Snake-Jailbird.webp"
+    },
+    {
+      "id": 33,
+      "name": "Nelson Muntz",
+      "occupation": "Student",
+      "age": 12,
+      "image": "https://i.postimg.cc/0j6LD51G/Nelson-Muntz.webp"
+    },
+    {
+      "id": 34,
+      "name": "Martin Prince",
+      "occupation": "Student",
+      "age": 10,
+      "image": "https://i.postimg.cc/HnfF2GTq/Martin-Prince.webp"
+    },
+    {
+      "id": 35,
+      "name": "Jimbo Jones",
+      "occupation": "Student",
+      "age": 14,
+      "image": "https://i.postimg.cc/ZKdGqqc4/Jimbo-Jones2.webp"
+    },
+    {
+      "id": 36,
+      "name": "Kearney Zzyzwicz",
+      "occupation": "Student",
+      "age": 15,
+      "image": "https://i.postimg.cc/W1cQqPWr/Kearney-Zzyzwicz.webp"
+    },
+    {
+      "id": 37,
+      "name": "Dolph Starbeam",
+      "occupation": "Student",
+      "age": 13,
+      "image": "https://i.postimg.cc/4xvjzFq0/Dolph-Starbeam.webp"
+    },
+    {
+      "id": 38,
+      "name": "Comic Book Guy",
+      "occupation": "Comic Store Owner",
+      "age": 45,
+      "image": "https://i.postimg.cc/vDFSnWzM/Comic-book-Guy2.webp"
+    },
+    {
+      "id": 39,
+      "name": "Hans Moleman",
+      "occupation": "Retired",
+      "age": 88,
+      "image": "https://i.postimg.cc/3r48gYBb/Tapped-Out-Unlock-Hans-Moleman.webp"
+    },
+    {
+      "id": 40,
+      "name": "Disco Stu",
+      "occupation": "Disc Jockey",
+      "age": 40,
+      "image": "https://i.postimg.cc/J7f1xvY7/Disco-Stu.webp"
+    },
+    {
+      "id": 41,
+      "name": "Kent Brockman",
+      "occupation": "News Anchor",
+      "age": 50,
+      "image": "https://i.postimg.cc/CKr0qQfg/Kent-Brockman.webp"
+    },
+    {
+      "id": 42,
+      "name": "Troy McClure",
+      "occupation": "Actor",
+      "age": 50,
+      "image": "https://i.postimg.cc/V6S8BWjb/Troy-Mc-Clure.webp"
+    },
+    {
+      "id": 43,
+      "name": "Lionel Hutz",
+      "occupation": "Lawyer",
+      "age": 45,
+      "image": "https://i.postimg.cc/QtRr6KbY/Lionel-Hutz.webp"
+    },
+    {
+      "id": 44,
+      "name": "Gil Gunderson",
+      "occupation": "Salesman",
+      "age": 50,
+      "image": "https://i.postimg.cc/d3rcgQNs/ViejoGil.webp"
+    },
+    {
+      "id": 45,
+      "name": "Rainier Wolfcastle",
+      "occupation": "Actor",
+      "age": 45,
+      "image": "https://i.postimg.cc/WpkVdSNB/Rainier-Wolfcastle.webp"
+    },
+    {
+      "id": 46,
+      "name": "Bumblebee Man",
+      "occupation": "TV Personality",
+      "age": 40,
+      "image": "https://i.postimg.cc/5NWVLvj6/Bumblebee-Man.webp"
+    },
+    {
+      "id": 47,
+      "name": "Jasper Beardly",
+      "occupation": "Retired",
+      "age": 80,
+      "image": "https://i.postimg.cc/YCpByH67/Jasper-Beardley.webp"
+    },
+    {
+      "id": 48,
+      "name": "Helen Lovejoy",
+      "occupation": "Reverend's Wife",
+      "age": 45,
+      "image": "https://i.postimg.cc/nLrbpGSw/Helen-Lovejoy-Tapped-Out.webp"
+    },
+    {
+      "id": 49,
+      "name": "Reverend Lovejoy",
+      "occupation": "Reverend",
+      "age": 50,
+      "image": "https://i.postimg.cc/ZqQkRv1Y/Timothy-Lovejoy.webp"
+    },
+    {
+      "id": 50,
+      "name": "Santa's Little Helper",
+      "occupation": "Pet Dog",
+      "age": 5,
+      "image": "https://i.postimg.cc/85f2rPSR/Ayudante-de-Santa.webp"
+    }
+  ]
+  
