@@ -53,10 +53,11 @@ input[type="text"] {
 }
 
 .card {
-    background: #e3e3e3;
+    background: #fd8a8a;
     border-radius: 4px;
     padding: 10px;
     margin: 10px 0;
+    font-size: 25px;
     display: flex; 
     justify-content: space-between; 
     align-items: center; 
@@ -79,6 +80,7 @@ input[type="text"] {
     transition: background-color 0.3s, transform 0.2s; 
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); 
     align-self: center; 
+    
 }
 
 .view-more-btn:hover {
