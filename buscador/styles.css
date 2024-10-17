@@ -23,10 +23,18 @@ body {
 h1 {
     text-align: center;
     font-family: "Luckiest Guy", cursive;
-  font-weight: 400;
-  font-style: normal;
-  font-size: 40px;
-}
+    font-weight: 400;
+    font-style: normal;
+    font-size: 40px;
+    color: rgb(217, 182, 4);
+    text-shadow: 
+      -2px -2px 0 rgb(0, 0, 0),
+      2px -2px 0 rgb(0, 0, 0),
+      -2px 2px 0 rgb(0, 0, 0),
+      2px 2px 0 rgb(0, 0, 0); /* Sombra en todas las direcciones para simular el borde */
+  }
+  
+  
 
 input[type="text"] {
     width: 97%;
